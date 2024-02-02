@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+Hi, I'm Jan-Ole! <br>
+I'm a PhD student in the [Statistic and Data Analysis Group](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/stats/index.xml) at Bielefeld University.
+
 ## Interests
+
+Doubly stochastic processes like hidden Markov models, state space models and point processes, and their application to ecology and sports.
 
 ## Biography
