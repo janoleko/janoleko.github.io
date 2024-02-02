@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# Interests
+## Interests
 
-# Biography
+## Biography
