@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Jan-Ole Koslik"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student in Statistics at Bielefeld University"
   location         : "Bielefeld, Germany"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=9FLpGqcAAAAJ&hl=de"
-  email            :
+  email            : "jan-ole.koslik@uni-bielefeld.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
