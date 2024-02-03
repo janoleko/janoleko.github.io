@@ -5,7 +5,7 @@ permalink: /software/
 author_profile: true
 ---
 
-## Lcpp <img src="../images/Lcpp_logo_new.png" align="right" height=130>
+## Lcpp <img src="../images/Lcpp_logo_new.png" align="right" height=50>
 I wrote the R package **Lcpp** for flexible model building and fast estimation of **latent Markov models**.
 
 * <a href = "https://github.com/janoleko/Lcpp" target = "_blank">Github</a>
