@@ -15,3 +15,6 @@ I'm a PhD student in the <a href="https://www.uni-bielefeld.de/fakultaeten/wirts
 ## Interests
 
 I'm mainly interested in **doubly stochastic processes** like hidden Markov models, state space models and point processes and applications in ecology and sports.
+
+<br>
+<img src="../images/pvariation.jpg">
