@@ -18,4 +18,12 @@ I presented the results of my master thesis which focussed on methods for mitiga
 
 ## Posters
 
+### Mitigating consequences of the Markov assumption
+
+<span style="color:grey">4. December 2023<br>
+18. Doctoral Workshop of the Bielefeld Graduate School of Economics and Management (BiGSEM), Bielefeld University
+</span>
+
+I also presented the results of my master thesis as a poster in the 18. doctoral workshop of the Bielefeld Graduate School of Economics and Management (BiGSEM). You can download the poster [here].
+
 
