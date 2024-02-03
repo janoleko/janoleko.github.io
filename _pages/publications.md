@@ -4,10 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## Peer-reviewed papers
 
 Michels, R., **Koslik, J.-O.** (2023)<br>
 "On the combination of data smoothing and Markov-switching models"<br>
 *Journal of the Royal Statistical Society* – Series C, in press
+
+## Preprints
 
 **Koslik, J.-O.**, Feldmann, C.C., Mews, S., Michels, R., Langrock, R. (2023)<br>
 ["Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour"](https://arxiv.org/abs/2312.14583)<br>
