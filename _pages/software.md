@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## Lcpp
-I wrote the R package **Lcpp** for flexible model building and fast estimation of the rich class of **latent Markov models**.
+I wrote the R package **Lcpp** for flexible model building and fast estimation of **latent Markov models**.
 
 * <a href = "https://github.com/janoleko/Lcpp" target = "_blank">Github</a>:
 
