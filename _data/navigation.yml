@@ -19,7 +19,7 @@ main:
     url: /cv/
 
   - title: "Travel"
-  url: /travel/
+    url: /travel/
     
 #  - title: "Guide"
 #    url: /markdown/
