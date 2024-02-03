@@ -9,8 +9,7 @@ author_profile: true
 
 ### Mitigating consequences of the Markov assumption
 
-<span style="color:grey">
-24. October 2023<br>
+<span style="color:grey">24. October 2023<br>
 Colloquium of the center for Statistics, Bielefeld University
 </span>
 
