@@ -24,6 +24,6 @@ I presented the results of my master thesis which focussed on methods for mitiga
 18. Doctoral Workshop of the Bielefeld Graduate School of Economics and Management (BiGSEM), Bielefeld University
 </span>
 
-I also presented the results of my master thesis as a poster in the 18. doctoral workshop of the Bielefeld Graduate School of Economics and Management (BiGSEM). You can download the poster [here].
+I also presented the results of my master thesis as a poster in the 18. doctoral workshop of the Bielefeld Graduate School of Economics and Management (BiGSEM). You can download the poster [here](../files/Poster_BIGSEM_workshop_Koslik.pdf).
 
 
