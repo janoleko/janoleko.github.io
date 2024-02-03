@@ -10,3 +10,5 @@ author_profile: true
 
 ## 2023
 I wrote a small [Shiny App](https://janoleko.shinyapps.io/DartsOptimizeR/) to optimise your Darts strategy depending on your individual skill level. Click [here](https://github.com/janoleko/DartsOptimizeR) for the code.
+
+I wrote the small R package [PandemicSim](https://github.com/janoleko/PandemicSim) to simulate pandemics with various characteristics, loosely based on the **SIRS** model. 
