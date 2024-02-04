@@ -73,7 +73,7 @@ Click [here]() to download a PDF version of my **CV**.
 
 <br>
 
-# Talks
+# Talks and Presentations
 {% capture talks_content %}
   {% include_relative talks.md %}
 {% endcapture %}
