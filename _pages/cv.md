@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Click [here](../files/CV_Koslik.pdf) to download the PDF version of my **CV**.
+Click [here](../files/CV_Koslik.pdf) to download the PDF version of my CV.
 <br>
 
 # Education
