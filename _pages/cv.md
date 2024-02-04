@@ -39,7 +39,7 @@ Skills
 Publications
 ======
 
-{% include site.pages-publications.md %}
+{% include publications.md %}
 
   
 Talks
