@@ -41,18 +41,6 @@ Click [here]() to download a PDF version of my **CV**.
 
 <br>
 
-# Talks
-{% capture talks_content %}
-  {% include_relative talks.md %}
-{% endcapture %}
-
-{% assign content_array = talks_content | split: "---" %}
-{% assign content_without_frontmatter = content_array[2] %}
-
-{{ content_without_frontmatter | markdownify }}
-
-<br>
-
 # Teaching
 {% capture teaching_content %}
   {% include_relative teaching.md %}
@@ -81,3 +69,15 @@ Click [here]() to download a PDF version of my **CV**.
 - **Programming**: R (including Rcpp), C++, Python
 - **Tools**: LaTeX, git, SQL
 - **Languages**: German, English
+
+<br>
+
+# Talks
+{% capture talks_content %}
+  {% include_relative talks.md %}
+{% endcapture %}
+
+{% assign content_array = talks_content | split: "---" %}
+{% assign content_without_frontmatter = content_array[2] %}
+
+{{ content_without_frontmatter | markdownify }}
