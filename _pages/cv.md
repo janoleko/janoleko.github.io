@@ -36,6 +36,7 @@ redirect_from:
 {% assign content_without_frontmatter = content_array[2] %}
 
 {{ content_without_frontmatter | markdownify }}
+<br>
 
 # Talks
 {% capture talks_content %}
@@ -46,6 +47,7 @@ redirect_from:
 {% assign content_without_frontmatter = content_array[2] %}
 
 {{ content_without_frontmatter | markdownify }}
+<br>
 
 # Teaching
 {% capture teaching_content %}
@@ -56,10 +58,9 @@ redirect_from:
 {% assign content_without_frontmatter = content_array[2] %}
 
 {{ content_without_frontmatter | markdownify }}
-
 <br>
-# Skills
 
+# Skills
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
