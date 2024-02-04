@@ -20,15 +20,13 @@ Click [here]() to download a PDF version of my **CV**.
 <br>
 
 # Work experience
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+- **Research associate** Statistics and Data Analysis Group, Bielefeld University, 2023-today
+- **Research assistant** Statistics and Data Analysis Group, Bielefeld University, 2022-2023
+- **Working student** Pricing Intelligence, CLAAS KGaA mbH, 2021-2022
+- **Tutor** in Mathematics and Statistics, Bielefeld University of Applied Sciences, 2018-2020
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
+
 <br>
 
 # Publications
