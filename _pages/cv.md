@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 Click [here]() to download a PDF version of my **CV**.
+<br>
 
 {% include base_path %}
 # Education
