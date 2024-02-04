@@ -38,6 +38,7 @@ Skills
 
 Publications
 ======
+{% include publications.md %}
 
 Talks
 ======
