@@ -37,7 +37,6 @@ Skills
 * Skill 3
 
 Publications
-======
 {% capture publications_content %}
   {% include_relative publications.md %}
 {% endcapture %}
@@ -48,8 +47,15 @@ Publications
 {{ content_without_frontmatter | markdownify }}
 
 Talks
-======
-  
+{% capture talks_content %}
+  {% include_relative talks.md %}
+{% endcapture %}
+
+{% assign content_array = talks_content | split: "---" %}
+{% assign content_without_frontmatter = content_array[2] %}
+
+{{ content_without_frontmatter | markdownify }}
+
 Teaching
 ======
   
