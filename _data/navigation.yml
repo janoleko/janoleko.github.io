@@ -21,8 +21,8 @@ main:
   - title: "Stuff"
     url: /stuff/
 
-  - title: "Travel"
-    url: /travel/
+#  - title: "Travel"
+#    url: /travel/
     
 #  - title: "Guide"
 #    url: /markdown/
