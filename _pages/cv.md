@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-<br>
 # Education
 * B.A. in Business Administration, Bielefeld University of Applied Sciences, 2017-2020
 * B.S in Economics, Bielefeld University, 2020-2021 (intermediate studies)
