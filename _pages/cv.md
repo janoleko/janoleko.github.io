@@ -42,8 +42,10 @@ Publications
   {% include_relative publications.md %}
 {% endcapture %}
 
-{{ publications_content | markdownify }}
+{% assign content_array = publications_content | split: "---" %}
+{% assign content_without_frontmatter = content_array[2] %}
 
+{{ content_without_frontmatter | markdownify }}
 
 Talks
 ======
