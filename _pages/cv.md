@@ -24,9 +24,6 @@ Click [here]() to download a PDF version of my **CV**.
 - **Research assistant** Statistics and Data Analysis Group, Bielefeld University, 2022-2023
 - **Working student** Pricing Intelligence, CLAAS KGaA mbH, 2021-2022
 - **Tutor** in Mathematics and Statistics, Bielefeld University of Applied Sciences, 2018-2020
-
-
-
 <br>
 
 # Publications
