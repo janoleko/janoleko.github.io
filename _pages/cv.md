@@ -14,8 +14,8 @@ redirect_from:
 * B.S in Economics, Bielefeld University, 2020-2021 (intermediate studies)
 * M.S. in Statistical Science, Bielefeld University, 2021-2023
 * Ph.D in Statistics, Bielefeld University, 2023-today
-
 <br>
+
 # Work experience
 * Summer 2015: Research Assistant
   * Github University
