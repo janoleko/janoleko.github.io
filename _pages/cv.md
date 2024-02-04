@@ -60,14 +60,17 @@ Click [here]() to download a PDF version of my **CV**.
 {{ content_without_frontmatter | markdownify }}
 <br>
 
-# Skills
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+# Grants and Awards
+- **German public-private scholarship**, funding years 2019/2020 and 2022/2023
+<br>
+
+# Community involvement
+**Reviewer**
+- Journal of Computational and Graphical Statistics
+- Journal of the Royal Statistical society series C
+<br>
+
+# Other skills
+- **Programming**: R (including Rcpp), C++, Python
+- **Tools**: LaTeX, git, SQL
+- **Languages**: German, English
