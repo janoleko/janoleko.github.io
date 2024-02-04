@@ -38,15 +38,13 @@ Skills
 
 Publications
 ======
-{% include publications.md %}
+{% include_relative /_pages/publications.md %}
 
 Talks
 ======
-{% include talks.md %}
   
 Teaching
 ======
-{% include teaching.md %}
   
 Service and leadership
 ======
