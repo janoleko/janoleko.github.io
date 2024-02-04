@@ -25,6 +25,7 @@ redirect_from:
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
+<br>
 
 # Publications
 {% capture publications_content %}
