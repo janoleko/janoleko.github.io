@@ -20,7 +20,7 @@ Click [here]() to download a PDF version of my **CV**.
   * Semester abroad, Budapest Business School, 2019/2020
 <br>
 
-# Work experience
+# Employment
 - **Research associate** Statistics and Data Analysis Group, Bielefeld University, 2023-today
 - **Research assistant** Statistics and Data Analysis Group, Bielefeld University, 2022-2023
 - **Working student** Pricing Intelligence, CLAAS KGaA mbH, 2021-2022
