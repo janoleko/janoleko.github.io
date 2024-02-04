@@ -38,9 +38,9 @@ Skills
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+{% include site.pages-publications.md %}
+
   
 Talks
 ======
