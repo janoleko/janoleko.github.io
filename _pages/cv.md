@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Business Administration, Bielefeld University of Applied Sciences, 2017-2020
+* B.S in Economics, Bielefeld University, 2020-2021 (intermediate studies)
+* M.S. in Statistical Science, Bielefeld University, 2021-2023
+* Ph.D in Statistics, Bielefeld University, 2023-today
 
 Work experience
 ======
