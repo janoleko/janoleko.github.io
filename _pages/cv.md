@@ -38,7 +38,7 @@ Skills
 
 Publications
 ======
-{% include publications.md %}
+{% include {{base_path}} /_pages/publications.md %}
 
 Talks
 ======
