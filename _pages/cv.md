@@ -36,7 +36,7 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+# Publications
 {% capture publications_content %}
   {% include_relative publications.md %}
 {% endcapture %}
@@ -46,7 +46,7 @@ Publications
 
 {{ content_without_frontmatter | markdownify }}
 
-Talks
+# Talks
 {% capture talks_content %}
   {% include_relative talks.md %}
 {% endcapture %}
