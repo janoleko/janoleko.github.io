@@ -38,21 +38,15 @@ Skills
 
 Publications
 ======
-
 {% include publications.md %}
 
-  
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+{% include talks.md %}
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+{% include teaching.md %}
   
 Service and leadership
 ======
