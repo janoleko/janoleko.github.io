@@ -38,7 +38,11 @@ Skills
 
 Publications
 ======
-{% include_relative publications.md %}
+{% capture publications_content %}
+  {% include_relative publications.md %}
+{% endcapture %}
+
+{{ publications_content | markdownify }}
 
 
 Talks
