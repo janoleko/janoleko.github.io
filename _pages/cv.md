@@ -38,7 +38,6 @@ Skills
 
 Publications
 ======
-{% include_relative /_pages/publications.md %}
 
 Talks
 ======
