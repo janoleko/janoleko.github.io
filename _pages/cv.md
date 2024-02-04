@@ -15,7 +15,7 @@ Click [here]() to download a PDF version of my **CV**.
 # Education
 - **Ph.D in Statistics**, Bielefeld University, 2023-today
 - **M.S. in Statistical Science**, Bielefeld University, 2021-2023
-- **B.S in Economics**, Bielefeld University, 2020-2021 (intermediate studies)
+- **B.S in Economics** (intermediate studies), Bielefeld University, 2020-2021
 - **B.A. in Business Administration**, Bielefeld University of Applied Sciences, 2017-2020
   * **Semester abroad**, Budapest Business School, 2019/2020
 <br>
