@@ -36,7 +36,6 @@ Click [here]() to download a PDF version of my **CV**.
 {% assign content_without_frontmatter = content_array[2] %}
 
 {{ content_without_frontmatter | markdownify }}
-<br>
 
 # Talks
 {% capture talks_content %}
@@ -47,7 +46,6 @@ Click [here]() to download a PDF version of my **CV**.
 {% assign content_without_frontmatter = content_array[2] %}
 
 {{ content_without_frontmatter | markdownify }}
-<br>
 
 # Teaching
 {% capture teaching_content %}
@@ -58,7 +56,6 @@ Click [here]() to download a PDF version of my **CV**.
 {% assign content_without_frontmatter = content_array[2] %}
 
 {{ content_without_frontmatter | markdownify }}
-<br>
 
 # Grants and Awards
 - **German public-private scholarship**, funding years 2019/2020 and 2022/2023
