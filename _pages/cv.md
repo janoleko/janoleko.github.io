@@ -62,7 +62,7 @@ Click [here]() to download a PDF version of my **CV**.
 # Community involvement
 **Reviewer**
 - Journal of Computational and Graphical Statistics
-- Journal of the Royal Statistical society series C
+- Journal of the Royal Statistical Society Series C
 
 <br>
 
