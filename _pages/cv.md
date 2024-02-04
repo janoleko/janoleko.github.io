@@ -38,7 +38,9 @@ Skills
 
 Publications
 ======
-{% include publications.md %}
+{% for post in site.pages %}
+  {% include publications.md %}
+{% endfor %}
 
 Talks
 ======
