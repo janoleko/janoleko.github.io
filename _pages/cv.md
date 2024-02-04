@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+Click [here]() to download a PDF version of my **CV**.
+
 {% include base_path %}
 # Education
 * B.A. in Business Administration, Bielefeld University of Applied Sciences, 2017-2020
