@@ -78,6 +78,8 @@ Click [here](../files/CV_Koslik.pdf) to download the PDF version of my CV.
 - **Representing the interests of student assistants** (SHK-Rat) Bielefeld University, 2022
 - **Voluntary service**, AWO nursery school Werther, 2016-2017
 
+<br>
+
 # Talks and Presentations
 {% capture talks_content %}
   {% include_relative talks.md %}
