@@ -74,9 +74,9 @@ Click [here](../files/CV_Koslik.pdf) to download the PDF version of my CV.
 <br>
 
 # Volunteering
-- **Member of the student Council** (Data Science & Statistical Science), Bielefeld University, 2021-2023
+- **Member of the student council** (Data Science & Statistical Science), Bielefeld University, 2021-2023
 - **Representing the interests of student assistants** (SHK-Rat) Bielefeld University, 2022
-- **Voluntary Service**, AWO nursery school Werther, 2016-2017
+- **Voluntary service**, AWO nursery school Werther, 2016-2017
 
 # Talks and Presentations
 {% capture talks_content %}
