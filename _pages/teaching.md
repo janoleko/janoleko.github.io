@@ -7,7 +7,7 @@ author_profile: true
 
 ## Workshops
 **Practical session for the Workshop [Using hidden Markov models to uncover ecological state dynamics from biologging data](https://bls8tokyo.net/workshop/)**<br>
-<span style="color:grey">Tokio, March 2024</span>
+<span style="color:grey">Tokyo Japan, March 2024</span>
 
 
 ## Tutorials
