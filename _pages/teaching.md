@@ -15,7 +15,7 @@ author_profile: true
 **Practical session on hidden Markov models (HMMs)**<br>
 <span style="color:grey">Bielefeld University, summer term 2024</span>
 
-* If you want to learn how to implement HMMs and their extension (HSMMs, cont.-time HMMs, SSMs, MM(M)PPs) yourself, click [here](https://github.com/janoleko/Lcpp/tree/main) to check out the vignettes of the `R` package [Lcpp](https://janoleko.github.io/software/). They provide various illustrative examples for a wide range of latent Markov models.
+* If you want to learn implementing HMMs and their extension (HSMMs, cont.-time HMMs, SSMs, MM(M)PPs) yourself, click [here](https://github.com/janoleko/Lcpp/tree/main) to check out the vignettes of the `R` package [Lcpp](https://janoleko.github.io/software/). They provide various illustrative examples for a wide range of latent Markov models.
 
 **Practical session on generalised linear models (GLMs)**<br>
 <span style="color:grey">Bielefeld University, winter term 2023/2024</span>
