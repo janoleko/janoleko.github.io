@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## Peer-reviewed papers
 - Michels, R., **Koslik, J.-O.** (2024)<br>
-"On the combination of data smoothing and Markov-switching models"<br>
+["On the combination of data smoothing and Markov-switching models"](https://academic.oup.com/jrsssc/advance-article-abstract/doi/10.1093/jrsssc/qlad110/7609864?login=false)<br>
 *Journal of the Royal Statistical Society* – Series C: Applied Statistics, qlad110.
 
 ## Preprints
