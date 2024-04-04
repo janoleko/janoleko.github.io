@@ -7,7 +7,7 @@ author_profile: true
 
 ## LaMa
 
-<img src ="../images/Lcpp_logo_new.png" align = "right" width = "170"/>
+<img src ="../images/Logo_LaMa.png" align = "right" width = "170"/>
 
 I wrote the R package **LaMa** for flexible model building and fast estimation of **latent Markov models**. It is far from finished, but already makes building such models much more convenient (kinda feels like stacking lego blocks). So give it a try!
 
