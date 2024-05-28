@@ -57,7 +57,7 @@ Click [here](../files/CV_Koslik.pdf) for the PDF version of my CV.
 # Grants and Awards
 - **German public-private scholarship**, funding years 2019/2020 and 2022/2023
 - **Mobility grant of the Bielefeld Graduate School in Theoretical Sciences (BGTS)**<br>
-€4000
+€4,000
 
 <br>
 
