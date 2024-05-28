@@ -10,6 +10,9 @@ author_profile: true
 *Journal of the Royal Statistical Society – Series C: Applied Statistics*, qlad110.
 
 ## Preprints
+- **Koslik, J.-O.** (2024)<br>
+["Hidden semi-Markov models with inhomogeneous state dwell-time distributions"](https://arxiv.org/abs/2405.13553)
+*arXiv preprint*, arXiv:2405.13553
 - **Koslik, J.-O.**, Feldmann, C.C., Mews, S., Michels, R., Langrock, R. (2023)<br>
 ["Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour"](https://arxiv.org/abs/2312.14583)<br>
 *arXiv preprint*, arXiv:2312.14583
