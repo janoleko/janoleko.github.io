@@ -9,7 +9,7 @@ author_profile: true
 
 <img src ="../images/Logo_LaMa.png" align = "right" width = "170"/>
 
-I wrote the R package **LaMa** for flexible model building and fast estimation of **latent Markov models**. It is far from finished, but already makes building such models much more convenient (kinda feels like stacking lego blocks). So give it a try!
+I wrote the R package **LaMa** for flexible model building and fast estimation of **latent Markov models**. It makes building such models much more convenient (kinda feels like stacking lego blocks) and allows for significant speed gains, so give it a try!
 
 * <a href = "https://cran.r-project.org/web/packages/LaMa/index.html" target = "_blank">CRAN</a>
 * <a href = "https://github.com/janoleko/LaMa" target = "_blank">Github</a>
