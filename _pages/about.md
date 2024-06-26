@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I'm Jan-Ole!
+Hi, I'm Ole!
 
 I'm a PhD student in the <a href="https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/stats/index.xml" target = "_blank">Statistics and Data Analysis Group</a> at Bielefeld University.
 
