@@ -12,7 +12,7 @@ author_profile: true
 ## Preprints
 - Mews, S., **Koslik, J.-O.**, Langrock, R. (2024)<br>
 ["How to build your latent Markov model - the role of time and space"](https://arxiv.org/abs/2406.19157)<br>
-*arXiv preprint*, arXiv:2405.13553
+*arXiv preprint*, arXiv:2406.19157
 - **Koslik, J.-O.** (2024)<br>
 ["Hidden semi-Markov models with inhomogeneous state dwell-time distributions"](https://arxiv.org/abs/2405.13553)<br>
 *arXiv preprint*, arXiv:2405.13553
