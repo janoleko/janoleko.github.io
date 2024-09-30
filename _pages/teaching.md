@@ -13,12 +13,12 @@ author_profile: true
 ## Tutorials
 
 **Practical session Mathematics for economists**<br>
-<span style="color:grey">Bielefeld University, summer term 2024</span>
+<span style="color:grey">Bachelor level, Bielefeld University, summer term 2024</span>
 
 **Practical session on hidden Markov models (HMMs)**<br>
-<span style="color:grey">Bielefeld University, summer term 2024</span>
+<span style="color:grey">Master level, Bielefeld University, summer term 2024</span>
 
 * If you want to learn implementing HMMs and their extension (HSMMs, cont.-time HMMs, SSMs, MM(M)PPs) yourself, click [here](https://github.com/janoleko/Lcpp/tree/main) to check out the vignettes of the `R` package [LaMa](https://janoleko.github.io/software/). They provide various illustrative examples for a wide range of latent Markov models.
 
 **Practical session on generalised linear models (GLMs)**<br>
-<span style="color:grey">Bielefeld University, winter term 2023/2024</span>
+<span style="color:grey">Master level, Bielefeld University, winter term 2023/2024</span>
