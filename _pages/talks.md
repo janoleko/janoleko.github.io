@@ -6,6 +6,21 @@ author_profile: true
 ---
 ## Talks
 
+**Exploring hidden dynamics: statistical inference in periodically inhomogeneous hidden Markov models for animal behaviour**<br>
+<span style="color:grey">4. September 2024,
+Royal Statistical Society Conference, Brighton, UK
+</span><br>
+
+**Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour**<br>
+<span style="color:grey">18. July 2024,
+International Statistical Ecology Conference, Swansea, Wales
+</span><br>
+
+**Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour**<br>
+<span style="color:grey">16. July 2024,
+International Statistical Ecology Conference, Swansea, Wales
+</span><br>
+
 **Inference on the state process of periodically inhomogeneous hidden Markov models**<br>
 <span style="color:grey">16. February 2024,
 Young Researchers Workshop of the Center for Statistics, Bielefeld University
