@@ -10,7 +10,7 @@ author_profile: true
 <span style="color:grey">24. September 2024,
 Statistics Seminar, Göttingen, Germany
 </span>
-<img src="../images/bullsharks.jpg">
+<img src="../images/bullsharks.jpg" style="width: 80%; height: auto;">
 
 **Exploring hidden dynamics: statistical inference in periodically inhomogeneous hidden Markov models for animal behaviour**<br>
 <span style="color:grey">4. September 2024,
