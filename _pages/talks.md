@@ -9,7 +9,7 @@ author_profile: true
 **Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
 <span style="color:grey">24. September 2024,
 Statistics Seminar, Göttingen, Germany
-</span>
+</span><br>
 <img src="../images/bullsharks.jpg" style="width: 80%; height: auto;">
 
 **Exploring hidden dynamics: statistical inference in periodically inhomogeneous hidden Markov models for animal behaviour**<br>
