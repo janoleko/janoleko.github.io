@@ -14,7 +14,8 @@ Statistics Seminar, Göttingen, Germany
 **Exploring hidden dynamics: statistical inference in periodically inhomogeneous hidden Markov models for animal behaviour**<br>
 <span style="color:grey">4. September 2024,
 Royal Statistical Society Conference, Brighton, UK
-</span><br>
+</span>
+<img src="../images/RSS.jpg">
 
 **Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour**<br>
 <span style="color:grey">18. July 2024,
