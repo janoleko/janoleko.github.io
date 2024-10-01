@@ -65,6 +65,7 @@ Click [here](../files/CV_Koslik.pdf) for the PDF version of my CV.
 **Reviewer**
 - Journal of Computational and Graphical Statistics
 - Journal of the Royal Statistical Society Series C
+- Movement Ecology
 
 <br>
 
