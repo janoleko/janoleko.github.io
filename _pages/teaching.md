@@ -7,7 +7,7 @@ author_profile: true
 
 ## Workshops
 Coorganised **Workshop [Hidden Markov Models for movement, acceleration and other ecological data – an introduction using moveHMM and momentuHMM in R](https://www.prstats.org/course/hidden-markov-models-for-movement-acceleration-and-other-ecological-data-hmmm01/)**<br>
-<span style="color:grey">Online, September 2024</span><br>
+<span style="color:grey">Online, September 2024,</span><br>
 <span style="color:grey">with [Roland Langrock](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/stats/team/prof.-dr.-roland-langrock/) and [Carlina Feldmann](https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/stats/team/carlina-feldmann-(m.sc.)-2/)</span>
 
 **Practical session for the Workshop [Using hidden Markov models to uncover ecological state dynamics from biologging data](https://bls8tokyo.net/workshop/)**<br>
