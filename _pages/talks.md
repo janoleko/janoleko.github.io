@@ -18,12 +18,7 @@ Royal Statistical Society Conference, Brighton, UK
 <img src="../images/RSS.JPG">
 
 **Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour**<br>
-<span style="color:grey">18. July 2024,
-International Statistical Ecology Conference, Swansea, Wales
-</span><br>
-
-**Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour**<br>
-<span style="color:grey">16. July 2024,
+<span style="color:grey">17. July 2024,
 International Statistical Ecology Conference, Swansea, Wales
 </span><br>
 
