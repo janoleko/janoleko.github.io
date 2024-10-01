@@ -15,7 +15,7 @@ Statistics Seminar, Göttingen, Germany
 <span style="color:grey">4. September 2024,
 Royal Statistical Society Conference, Brighton, UK
 </span>
-<img src="../images/RSS.jpg">
+<img src="../images/RSS.JPG">
 
 **Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour**<br>
 <span style="color:grey">18. July 2024,
