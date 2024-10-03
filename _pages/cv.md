@@ -65,6 +65,7 @@ Click [here](../files/CV.pdf) for the PDF version of my CV.
 **Reviewer**
 - Journal of Computational and Graphical Statistics
 - Journal of the Royal Statistical Society Series C
+- Computational Statistics and Data Analysis
 - Movement Ecology
 
 <br>
