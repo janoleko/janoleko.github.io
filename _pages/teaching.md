@@ -14,7 +14,7 @@ Coorganised **Workshop [Hidden Markov Models for movement, acceleration and othe
 <span style="color:grey">Tokyo Japan, March 2024</span>
 
 
-## Tutorials
+## Tutorials and courses
 
 **Practical session Mathematics for economists**<br>
 <span style="color:grey">Bachelor level, Bielefeld University, summer term 2024</span>
