@@ -66,6 +66,7 @@ Click [here](../files/CV.pdf) for the PDF version of my CV.
 - Journal of Computational and Graphical Statistics
 - Journal of the Royal Statistical Society Series C
 - Computational Statistics and Data Analysis
+- Methods in Ecology and Evolution
 - Movement Ecology
 
 <br>
