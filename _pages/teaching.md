@@ -16,8 +16,11 @@ Coorganised **Workshop [Hidden Markov Models for movement, acceleration and othe
 
 ## Tutorials and courses
 
+**Practical session Multivariate Methods**<br>
+<span style="color:grey">Bachelor level, Bielefeld University, winter term 2024/25</span>
+
 **Practical session Mathematics for economists**<br>
-<span style="color:grey">Bachelor level, Bielefeld University, summer term 2024</span>
+<span style="color:grey">Bachelor level, Bielefeld University, summer term 2024, winter term 2024/25</span>
 
 **Practical session on hidden Markov models**<br>
 <span style="color:grey">Master level, Bielefeld University, summer term 2024</span>
@@ -25,7 +28,7 @@ Coorganised **Workshop [Hidden Markov Models for movement, acceleration and othe
 * If you want to learn implementing HMMs and their extension (HSMMs, cont.-time HMMs, SSMs, MM(M)PPs) yourself, click [here](https://github.com/janoleko/Lcpp/tree/main) to check out the vignettes of the `R` package [LaMa](https://janoleko.github.io/software/). They provide various illustrative examples for a wide range of latent Markov models.
 
 **Statistical Consulting**<br>
-<span style="color:grey">Master level, Bielefeld University, winter term 2023/2024</span>
+<span style="color:grey">Master level, Bielefeld University, winter term 2023/2024, winter term 2024/2025</span>
 
 **Practical session on generalised linear models (GLMs)**<br>
 <span style="color:grey">Master level, Bielefeld University, winter term 2023/2024</span>
