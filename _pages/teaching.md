@@ -16,7 +16,7 @@ Coorganised **Workshop [Hidden Markov Models for movement, acceleration and othe
 
 ## Tutorials and courses
 
-**Practical session Multivariate Methods**<br>
+**Practical session on muultivariate methods**<br>
 <span style="color:grey">Bachelor level, Bielefeld University, winter term 2024/25</span>
 
 **Practical session Mathematics for economists**<br>
