@@ -63,7 +63,7 @@ Click [here](../files/CV.pdf) for the PDF version of my CV.
 
 # Community involvement
 **Reviewer**
-- Journal of Computational and Graphical Statistics
+- [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/toc/ucgs20/current)
 - Journal of the Royal Statistical Society Series C
 - Computational Statistics and Data Analysis
 - Methods in Ecology and Evolution
