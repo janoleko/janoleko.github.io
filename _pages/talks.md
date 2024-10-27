@@ -9,23 +9,20 @@ author_profile: true
 **Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
 <span style="color:grey">24. September 2024,
 Statistics Seminar, Göttingen, Germany
-</span><br><br>
+</span><br>
 <img src="../images/bullsharks.jpg" style="width: 100%; height: auto;">
-<br>
 
 **Exploring hidden dynamics: statistical inference in periodically inhomogeneous hidden Markov models for animal behaviour**<br>
 <span style="color:grey">4. September 2024,
 Royal Statistical Society Conference, Brighton, UK
-</span><br><br>
+</span><br>
 <img src="../images/RSS.JPG" style="width: 100%; height: auto;">
-<br>
 
 **Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour**<br>
 <span style="color:grey">17. July 2024,
 International Statistical Ecology Conference, Swansea, Wales
-</span><br><br>
+</span><br>
 <img src="../images/ISEC.jpg" style="width: 100%; height: auto;">
-<br>
 
 **Inference on the state process of periodically inhomogeneous hidden Markov models**<br>
 <span style="color:grey">16. February 2024,
