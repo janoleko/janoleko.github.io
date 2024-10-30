@@ -17,5 +17,6 @@ I'm a PhD student in the <a href="https://www.uni-bielefeld.de/fakultaeten/wirts
 
 ## Interests
 
-I'm mainly interested in **doubly stochastic processes** like hidden Markov models, state space models and point processes and applications in ecology and sports.
+I'm mainly interested in **doubly stochastic processes** like hidden Markov models, state space models and point processes and applications in ecology and sports. 
+To make these models more accessible to a wider audience, I wrote the R package <a href="https://janoleko.github.io/LaMa/" target = "_blank">LaMa</a>.
 
