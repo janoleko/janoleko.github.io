@@ -4,6 +4,8 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" target="_blank">here</a> for my Google Scholar.
+
 ## Peer-reviewed papers
 - Michels, R., **Koslik, J.-O.** (2024)<br>
 ["On the combination of data smoothing and Markov-switching models"](https://academic.oup.com/jrsssc/advance-article-abstract/doi/10.1093/jrsssc/qlad110/7609864?login=false)<br>
