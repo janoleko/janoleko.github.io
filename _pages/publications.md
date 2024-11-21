@@ -10,6 +10,9 @@ author_profile: true
 *Journal of the Royal Statistical Society – Series C: Applied Statistics*, qlad110.
 
 ## Preprints
+- **Koslik, J.-O.** (2024)<br>
+["Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood"](https://arxiv.org/abs/2411.11498)<br>
+*arXiv preprint*, arXiv:2411.11498
 - Bachons, R., **Koslik, J.-O.**, Michels, R., Ötting, M. (2024)<br>
 ["PEP: a tackle value measuring the prevention of expected points"](https://arxiv.org/abs/2407.08508)<br>
 *arXiv preprint*, arXiv:2407.08508
