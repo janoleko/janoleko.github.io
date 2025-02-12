@@ -10,7 +10,7 @@ author_profile: true
 <span style="color:grey">5. January 2025,
 Statistics Seminar, St Andrews, Scotland
 </span><br>
-[slides](../files/slides/slides_YRW.pdf)
+[slides](../files/slides/Slides_qREML_St_Andrews.pdf)
 
 
 **Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
