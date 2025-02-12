@@ -7,6 +7,13 @@ author_profile: true
 ## Talks
 
 **Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
+<span style="color:grey">5. January 2025,
+Statistics Seminar, St Andrews, Scotland
+</span><br>
+[slides](../files/slides/slides_YRW.pdf)
+
+
+**Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
 <span style="color:grey">24. September 2024,
 Statistics Seminar, Göttingen, Germany
 </span><br>
