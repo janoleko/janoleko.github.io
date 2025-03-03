@@ -14,6 +14,7 @@ Click [here](../files/CV.pdf) for the PDF version of my CV.
 
 # Education
 - **PhD in Statistics**, Bielefeld University, 2023-today
+  * **Research stay**, University of British Columbia, March-April 2025
 - **MSc in Statistical Science**, Bielefeld University, 2021-2023
 - **BSc in Economics** (intermediate studies), Bielefeld University, 2020-2021
 - **BA in Business Administration**, Bielefeld University of Applied Sciences, 2017-2020
