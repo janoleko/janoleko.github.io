@@ -13,6 +13,7 @@ I wrote the R package `LaMa` for flexible model building and fast estimation of 
 
 * Check out the entire documentation <a href = "https://janoleko.github.io/LaMa/" target = "_blank">here</a>
 * or get started with the vignette <a href = "https://janoleko.github.io/LaMa/articles/Intro_to_LaMa.html" target = "_blank">Intro to LaMa</a>
+* The package is motivated by the unification of various latent Markovian models in <a href = "https://arxiv.org/abs/2406.19157" target = "_blank">this paper</a>
 
 ## EgoCor
 I assisted <a href = "https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/stats/team/julia-dyck-(m.sc.)/" target="_blank">Julia Dyck</a> in developing the R package `EgoCor` as a user-friendly interface based on the R package `gstat` to fit exponential parametric models to empirical semi-variograms to model the spatial correlation structure of health data.
