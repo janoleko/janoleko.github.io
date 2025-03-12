@@ -18,4 +18,5 @@ I wrote the R package `LaMa` for flexible model building and fast estimation of 
 I assisted <a href = "https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/stats/team/julia-dyck-(m.sc.)/" target="_blank">Julia Dyck</a> in developing the R package `EgoCor` as a user-friendly interface based on the R package `gstat` to fit exponential parametric models to empirical semi-variograms to model the spatial correlation structure of health data.
 
 * <a href = "https://cran.r-project.org/web/packages/EgoCor/index.html" target="_blank">CRAN</a>
-* <a href = "" target = "_blank">Github</a>
+* <a href = "https://github.com/julia-dyck/EgoCor" target = "_blank">Github</a>
+* <a href = "https://arxiv.org/abs/2309.12979" taget = "_blank">Publication</a>
