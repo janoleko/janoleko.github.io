@@ -109,13 +109,13 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  bluesky          : "olemole.bsky.social"
   twitter          : # "JanOleKoslik"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
+  bluesky          : "https://bsky.app/profile/olemole.bsky.social"
 
 
 # Reading Files
