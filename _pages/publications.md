@@ -8,7 +8,7 @@ Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" tar
 
 ## Peer-reviewed papers
 - **Koslik, J.-O.** (2025)<br>
-["Hidden semi-Markov models with inhomogeneous state dwell-time distributions"](https://arxiv.org/abs/2405.13553)<br>
+["Hidden semi-Markov models with inhomogeneous state dwell-time distributions"](https://www.sciencedirect.com/science/article/pii/S0167947325000477)<br>
 *Computational Statistics & Data Analysis*, in press
 - Michels, R., **Koslik, J.-O.** (2024)<br>
 ["On the combination of data smoothing and Markov-switching models"](https://academic.oup.com/jrsssc/advance-article-abstract/doi/10.1093/jrsssc/qlad110/7609864?login=false)<br>
