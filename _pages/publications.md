@@ -10,7 +10,7 @@ Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" tar
 - **Koslik, J.-O.** (2025)<br>
 ["Hidden semi-Markov models with inhomogeneous state dwell-time distributions"](https://www.sciencedirect.com/science/article/pii/S0167947325000477)<br>
 *Computational Statistics & Data Analysis*, 108171.
-- Dyck, J., **Koslik, J.-O.**, Sauzet, O. (2023)<br>
+- Dyck, J., **Koslik, J.-O.**, Sauzet, O. (2025)<br>
 ["EgoCor: an R package to fit exponential semi-variograms to model the local spatial correlation structure of health outcomes"](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.517)<br>
 *Journal of Open Research Software*, 13, 1.
 - Michels, R., **Koslik, J.-O.** (2024)<br>
