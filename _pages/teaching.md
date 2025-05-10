@@ -20,7 +20,7 @@ Coorganised **Workshop [Hidden Markov Models for movement, acceleration and othe
 <span style="color:grey">Bachelor level, Bielefeld University, winter term 2024/2025</span>
 
 **Practical session Mathematics for economists**<br>
-<span style="color:grey">Bachelor level, Bielefeld University, summer term 2024, winter term 2024/2025</span>
+<span style="color:grey">Bachelor level, Bielefeld University, 2024 - today</span>
 
 **Practical session on hidden Markov models**<br>
 <span style="color:grey">Master level, Bielefeld University, summer term 2024</span>
