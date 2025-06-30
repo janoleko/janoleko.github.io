@@ -65,8 +65,8 @@ Click [here](../files/CV.pdf) for the PDF version of my CV.
 # Community involvement
 **Reviewer**
 - [Journal of Computational and Graphical Statistics](https://www.tandfonline.com/toc/ucgs20/current)
-- [Journal of the Royal Statistical Society Series C](https://rss.org.uk/news-publication/publications/journals/series-c/)
 - [Journal of the Royal Statistical Society Series A](https://rss.org.uk/news-publication/publications/journals/series-a/)
+- [Journal of the Royal Statistical Society Series C](https://rss.org.uk/news-publication/publications/journals/series-c/)
 - [Computational Statistics and Data Analysis](https://www.sciencedirect.com/journal/computational-statistics-and-data-analysis)
 - [Methods in Ecology and Evolution](https://besjournals.onlinelibrary.wiley.com/journal/2041210x)
 - [Movement Ecology](https://movementecologyjournal.biomedcentral.com)
