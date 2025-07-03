@@ -23,9 +23,6 @@ Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" tar
 - **Koslik, J.-O.** (2024)<br>
 ["Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood"](https://arxiv.org/abs/2411.11498)<br>
 *arXiv preprint*, arXiv:2411.11498
-- Bachons, R., **Koslik, J.-O.**, Michels, R., Ötting, M. (2024)<br>
-["PEP: a tackle value measuring the prevention of expected points"](https://arxiv.org/abs/2407.08508)<br>
-*arXiv preprint*, arXiv:2407.08508
 - Mews, S., **Koslik, J.-O.**, Langrock, R. (2024)<br>
 ["How to build your latent Markov model - the role of time and space"](https://arxiv.org/abs/2406.19157)<br>
 *arXiv preprint*, arXiv:2406.19157
