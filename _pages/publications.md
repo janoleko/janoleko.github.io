@@ -21,6 +21,9 @@ Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" tar
 *Journal of the Royal Statistical Society – Series C: Applied Statistics*, qlad110.
 
 ## Preprints
+- **Koslik, J.-O.** (2025)<br>
+"Tensor-product interactions in Markov-switching models"<br>
+*arXiv preprint*, arXiv:2507.01555
 - **Koslik, J.-O.** (2024)<br>
 ["Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood"](https://arxiv.org/abs/2411.11498)<br>
 *arXiv preprint*, arXiv:2411.11498
