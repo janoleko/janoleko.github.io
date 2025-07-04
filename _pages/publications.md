@@ -8,7 +8,7 @@ Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" tar
 
 ## Peer-reviewed papers
 - Bajons, R., **Koslik, J. O.**, Michels, R., & Ötting, M. (2025)<br>
-["PEP: a tackle value measuring the prevention of expected points"](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0099/html?casa_token=pjXIdkXqb5gAAAAA:YQ5w7zK_Esz_ScCiiiNTZQWNtP-yiqDC2ynX9sa6DZsiZRExFwrYH-lqBmwUhfNGy0dE99lQshI)<br>
+["PEP: a tackle value measuring the prevention of expected points"](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0099/html)<br>
 *Journal of Quantitative Analysis in Sports*, (0).
 - **Koslik, J.-O.** (2025)<br>
 ["Hidden semi-Markov models with inhomogeneous state dwell-time distributions"](https://www.sciencedirect.com/science/article/pii/S0167947325000477)<br>
