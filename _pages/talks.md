@@ -39,7 +39,9 @@ Royal Statistical Society Conference, Brighton, UK
 <span style="color:grey">17. July 2024,
 International Statistical Ecology Conference, Swansea, Wales
 </span><br>
+<div style="text-align: center;">
 <img src="../images/ISEC.jpg" style="width: 60%; height: auto;">
+</div><br>
 
 **Inference on the state process of periodically inhomogeneous hidden Markov models**<br>
 <span style="color:grey">16. February 2024,
