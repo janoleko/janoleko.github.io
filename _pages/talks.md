@@ -6,11 +6,15 @@ author_profile: true
 ---
 ## Talks
 
-**Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
+**Latent Markov models in Ecology: A unifying perspective**<br>
 <span style="color:grey">5. January 2025,
 Statistics Seminar, St Andrews, Scotland
 </span><br>
-[slides](../files/slides/Slides_qREML_St_Andrews.pdf)
+
+**Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
+<span style="color:grey">12. June 2025,
+Nordic-Baltic Biometric Conference, Oslo, Norway
+</span><br>
 
 
 **Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
