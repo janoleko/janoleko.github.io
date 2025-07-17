@@ -7,34 +7,33 @@ author_profile: true
 ## Talks
 
 **Latent Markov models in Ecology: A unifying perspective**<br>
-<span style="color:grey">5. January 2025,
-Statistics Seminar, St Andrews, Scotland
-</span><br>
-<img src="../images/talk_Oslo.JPG" style="width: 100%; height: auto;">
-
-**Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
 <span style="color:grey">12. June 2025,
 Nordic-Baltic Biometric Conference, Oslo, Norway
 </span><br>
+<img src="../images/talk_Oslo.JPG" style="width: 60%; height: auto;">
 
+**Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
+<span style="color:grey">5. January 2025,
+Statistics Seminar, St Andrews, Scotland
+</span><br>
 
 **Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
 <span style="color:grey">24. September 2024,
 Statistics Seminar, Göttingen, Germany
 </span><br>
-<img src="../images/bullsharks.jpg" style="width: 100%; height: auto;">
+<img src="../images/bullsharks.jpg" style="width: 60%; height: auto;">
 
 **Exploring hidden dynamics: statistical inference in periodically inhomogeneous hidden Markov models for animal behaviour**<br>
 <span style="color:grey">4. September 2024,
 Royal Statistical Society Conference, Brighton, UK
 </span><br>
-<img src="../images/RSS.JPG" style="width: 100%; height: auto;">
+<img src="../images/RSS.JPG" style="width: 60%; height: auto;">
 
 **Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour**<br>
 <span style="color:grey">17. July 2024,
 International Statistical Ecology Conference, Swansea, Wales
 </span><br>
-<img src="../images/ISEC.jpg" style="width: 100%; height: auto;">
+<img src="../images/ISEC.jpg" style="width: 60%; height: auto;">
 
 **Inference on the state process of periodically inhomogeneous hidden Markov models**<br>
 <span style="color:grey">16. February 2024,
