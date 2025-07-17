@@ -11,7 +11,7 @@ author_profile: true
 Nordic-Baltic Biometric Conference, Oslo, Norway
 </span><br>
 <div style="text-align: center;">
-<img src="../images/talk_Oslo.JPG" style="width: 60%; height: auto;">
+<img src="../images/talk_Oslo.JPG" style="width: 50%; height: auto;">
 </div><br>
 
 **Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
@@ -24,7 +24,7 @@ Statistics Seminar, St Andrews, Scotland
 Statistics Seminar, Göttingen, Germany
 </span><br>
 <div style="text-align: center;">
-<img src="../images/bullsharks.jpg" style="width: 60%; height: auto;">
+<img src="../images/bullsharks.jpg" style="width: 50%; height: auto;">
 </div><br>
 
 **Exploring hidden dynamics: statistical inference in periodically inhomogeneous hidden Markov models for animal behaviour**<br>
@@ -32,7 +32,7 @@ Statistics Seminar, Göttingen, Germany
 Royal Statistical Society Conference, Brighton, UK
 </span><br>
 <div style="text-align: center;">
-<img src="../images/RSS.JPG" style="width: 60%; height: auto;">
+<img src="../images/RSS.JPG" style="width: 50%; height: auto;">
 </div><br>
 
 **Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour**<br>
@@ -40,7 +40,7 @@ Royal Statistical Society Conference, Brighton, UK
 International Statistical Ecology Conference, Swansea, Wales
 </span><br>
 <div style="text-align: center;">
-<img src="../images/ISEC.jpg" style="width: 60%; height: auto;">
+<img src="../images/ISEC.jpg" style="width: 50%; height: auto;">
 </div><br>
 
 **Inference on the state process of periodically inhomogeneous hidden Markov models**<br>
