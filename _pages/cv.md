@@ -57,8 +57,9 @@ Click [here](../files/CV.pdf) for the PDF version of my CV.
 
 # Grants and Awards
 - **German public-private scholarship**, funding years 2019/2020 and 2022/2023
-- **Mobility grant of the Bielefeld Graduate School in Theoretical Sciences (BGTS)**<br>
+- **Mobility grant of the Bielefeld Graduate School in Theoretical Sciences (BGTS)** <br>
 €4,000
+- **Teaching award of the Department of Business Administration and Economics** for delivering one of the courses with the best evaluations across the department (for the course "Präsenzübung Mathematik II", jointly with K. Ammann)
 
 <br>
 
