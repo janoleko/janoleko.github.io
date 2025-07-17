@@ -12,7 +12,7 @@ Nordic-Baltic Biometric Conference, Oslo, Norway
 </span><br>
 <div style="text-align: center;">
 <img src="../images/talk_Oslo.JPG" style="width: 60%; height: auto;">
-</div>
+</div><br>
 
 **Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
 <span style="color:grey">5. January 2025,
@@ -23,13 +23,17 @@ Statistics Seminar, St Andrews, Scotland
 <span style="color:grey">24. September 2024,
 Statistics Seminar, Göttingen, Germany
 </span><br>
+<div style="text-align: center;">
 <img src="../images/bullsharks.jpg" style="width: 60%; height: auto;">
+</div><br>
 
 **Exploring hidden dynamics: statistical inference in periodically inhomogeneous hidden Markov models for animal behaviour**<br>
 <span style="color:grey">4. September 2024,
 Royal Statistical Society Conference, Brighton, UK
 </span><br>
+<div style="text-align: center;">
 <img src="../images/RSS.JPG" style="width: 60%; height: auto;">
+</div><br>
 
 **Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour**<br>
 <span style="color:grey">17. July 2024,
