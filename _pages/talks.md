@@ -10,7 +10,9 @@ author_profile: true
 <span style="color:grey">12. June 2025,
 Nordic-Baltic Biometric Conference, Oslo, Norway
 </span><br>
+<div style="text-align: center;">
 <img src="../images/talk_Oslo.JPG" style="width: 60%; height: auto;">
+</div>
 
 **Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
 <span style="color:grey">5. January 2025,
