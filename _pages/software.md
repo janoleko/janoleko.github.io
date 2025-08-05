@@ -11,9 +11,18 @@ author_profile: true
 
 I wrote the R package `LaMa` for flexible model building and fast estimation of **latent Markov models**. It makes building such models much more convenient (kinda feels like stacking lego blocks) and allows for significant speed gains, so give it a try!
 
-* Check out the entire documentation <a href = "https://janoleko.github.io/LaMa/" target = "_blank">here</a>
+* Check out the package website <a href = "https://janoleko.github.io/LaMa/" target = "_blank">here</a>
 * or get started with the vignette <a href = "https://janoleko.github.io/LaMa/articles/Intro_to_LaMa.html" target = "_blank">Intro to LaMa</a>
 * The package is motivated by the unification of various latent Markovian models developed in <a href = "https://arxiv.org/abs/2406.19157" target = "_blank">this paper</a>
+
+## RTMBdist
+
+I created the R package `RTMBdist`, a library of probability distributions compatible with automatic differentiation delivered by the `RTMB` package. 
+While `RTMB` allows flexible, fast likelihood-based modeling in R, many existing distributions break automatic
+differentiation. `RTMBdist` fills this gap, enabling reliable and efficient model development.
+
+* Check out the package website <a href = "https://janoleko.github.io/RTMBdist/" target = "_blank">here</a>
+* <a href = "https://github.com/janoleko/RTMBdist" target = "_blank">Github</a>
 
 ## EgoCor
 I assisted <a href = "https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/stats/team/julia-dyck-(m.sc.)/" target="_blank">Julia Dyck</a> in developing the R package `EgoCor` as a user-friendly interface based on the R package `gstat` to fit exponential parametric models to empirical semi-variograms to model the spatial correlation structure of health data.
