@@ -7,6 +7,10 @@ author_profile: true
 Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" target="_blank">here</a> for my Google Scholar.
 
 ## Peer-reviewed papers
+
+- Mews, S., **Koslik, J.-O.**, Langrock, R. (2025)<br>
+["How to build your latent Markov model - the role of time and space"](https://journals.sagepub.com/eprint/UETXXCFDY4HKBWZRNHI3/full)<br>
+*Statistical Modelling*, 2025;0(0).
 - Bajons, R., **Koslik, J. O.**, Michels, R., & Ötting, M. (2025)<br>
 ["PEP: a tackle value measuring the prevention of expected points"](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0099/html)<br>
 *Journal of Quantitative Analysis in Sports*, (0).
@@ -27,9 +31,6 @@ Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" tar
 - **Koslik, J.-O.** (2024)<br>
 ["Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood"](https://arxiv.org/abs/2411.11498)<br>
 *arXiv preprint*, arXiv:2411.11498
-- Mews, S., **Koslik, J.-O.**, Langrock, R. (2024)<br>
-["How to build your latent Markov model - the role of time and space"](https://arxiv.org/abs/2406.19157)<br>
-*arXiv preprint*, arXiv:2406.19157
 - **Koslik, J.-O.**, Feldmann, C.C., Mews, S., Michels, R., Langrock, R. (2023)<br>
 ["Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour"](https://arxiv.org/abs/2312.14583)<br>
 *arXiv preprint*, arXiv:2312.14583
