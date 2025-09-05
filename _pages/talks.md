@@ -6,6 +6,11 @@ author_profile: true
 ---
 ## Talks
 
+**Efficient estimation of nonparametric Markov-switching models**<br>
+<span style="color:grey">3. September 2025,
+Statistical Week 2025, Wiesbaden, Germany
+</span><br>
+
 **Latent Markov models in Ecology: A unifying perspective**<br>
 <span style="color:grey">12. June 2025,
 Nordic-Baltic Biometric Conference, Oslo, Norway
