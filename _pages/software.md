@@ -17,7 +17,7 @@ I wrote the R package `LaMa` for flexible model building and fast estimation of 
 
 ## RTMBdist
 
-<img src ="https://github.com/janoleko/RTMBdist/blob/master/man/figures/RTMBdist_hex.png" align = "right" width = "160"/>
+<img src ="https://github.com/janoleko/RTMBdist/blob/master/man/figures/RTMBdist_hex.png" align = "right" width = "150"/>
 
 I created the R package `RTMBdist`, a library of probability distributions compatible with automatic differentiation delivered by the <a href = "https://kaskr.r-universe.dev/RTMB" target = "_blank">`RTMB`</a> package. 
 While `RTMB` allows flexible, fast likelihood-based modelling in R, many existing distributions break automatic
