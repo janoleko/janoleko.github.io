@@ -16,8 +16,6 @@ I wrote the R package `LaMa` for flexible model building and fast estimation of 
 * or get started with the vignette <a href = "https://janoleko.github.io/LaMa/articles/Intro_to_LaMa.html" target = "_blank">Intro to LaMa</a>
 * The package is motivated by the unification of various latent Markovian models developed in <a href = "https://arxiv.org/abs/2406.19157" target = "_blank">this paper</a>
 
-<br>
-
 ## RTMBdist
 
 <img src="https://github.com/janoleko/RTMBdist/raw/master/man/figures/RTMBdist_hex.png"
@@ -29,8 +27,6 @@ differentiation. `RTMBdist` fills this gap, enabling reliable and efficient mode
 
 * Check out the package website <a href = "https://janoleko.github.io/RTMBdist/" target = "_blank">here</a>
 * <a href = "https://github.com/janoleko/RTMBdist" target = "_blank">Github</a>
-
-<br>
 
 ## EgoCor
 I assisted <a href = "https://www.uni-bielefeld.de/fakultaeten/wirtschaftswissenschaften/lehrbereiche/stats/team/julia-dyck-(m.sc.)/" target="_blank">Julia Dyck</a> in developing the R package `EgoCor` as a user-friendly interface based on the R package `gstat` to fit exponential parametric models to empirical semi-variograms to model the spatial correlation structure of health data.
