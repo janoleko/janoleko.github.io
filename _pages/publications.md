@@ -9,7 +9,7 @@ Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" tar
 ## Peer-reviewed papers
 
 - Mews, S., **Koslik, J.-O.**, Langrock, R. (2025)<br>
-["How to build your latent Markov model - the role of time and space"](https://journals.sagepub.com/eprint/UETXXCFDY4HKBWZRNHI3/full)<br>
+["How to build your latent Markov model: The role of time and space"](https://journals.sagepub.com/eprint/UETXXCFDY4HKBWZRNHI3/full)<br>
 *Statistical Modelling*, 2025;0(0).
 - Bajons, R., **Koslik, J. O.**, Michels, R., & Ötting, M. (2025)<br>
 ["PEP: a tackle value measuring the prevention of expected points"](https://www.degruyterbrill.com/document/doi/10.1515/jqas-2024-0099/html)<br>
