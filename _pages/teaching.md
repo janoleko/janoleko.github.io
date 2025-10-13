@@ -16,7 +16,7 @@ Coorganised **Workshop [Hidden Markov Models for movement, acceleration and othe
 
 ## Tutorials and courses
 
-**Mathematics Pre-Course for Economics students**
+**Mathematics Pre-Course for Economics students**<br>
 <span style="color:grey">Introductory level, Bielefeld University, winter term 2025</span>
 
 **Practical session on multivariate methods**<br>
