@@ -8,6 +8,9 @@ Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" tar
 
 ## Peer-reviewed papers
 
+- **Koslik, J.-O.**, Feldmann, C.C., Mews, S., Michels, R., Langrock, R. (2025)<br>
+["Inference on the state process of periodically inhomogeneous hidden Markov models for animal behavior"](https://arxiv.org/abs/2312.14583)<br>
+*Annals of Applied Statistics*, in press
 - Mews, S., **Koslik, J.-O.**, Langrock, R. (2025)<br>
 ["How to build your latent Markov model: The role of time and space"](https://journals.sagepub.com/eprint/UETXXCFDY4HKBWZRNHI3/full)<br>
 *Statistical Modelling*, 2025; 0(0).
@@ -31,7 +34,4 @@ Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" tar
 - **Koslik, J.-O.** (2024)<br>
 ["Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood"](https://arxiv.org/abs/2411.11498)<br>
 *arXiv preprint*, arXiv:2411.11498
-- **Koslik, J.-O.**, Feldmann, C.C., Mews, S., Michels, R., Langrock, R. (2023)<br>
-["Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour"](https://arxiv.org/abs/2312.14583)<br>
-*arXiv preprint*, arXiv:2312.14583
 
