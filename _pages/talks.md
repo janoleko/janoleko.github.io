@@ -6,6 +6,11 @@ author_profile: true
 ---
 ## Talks
 
+**Hidden semi-Markov models with inhomogeneous state dwell-time distributions**<br>
+<span style="color:grey">25. November 2025,
+MIAT Seminar, Inrae, Toulouse, France
+</span><br>
+
 **Efficient estimation of nonparametric Markov-switching models**<br>
 <span style="color:grey">3. September 2025,
 Statistical Week 2025, Wiesbaden, Germany
