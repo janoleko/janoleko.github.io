@@ -12,6 +12,11 @@ MIAT Seminar, Inrae, Toulouse, France
 </span><br>
 
 **Efficient estimation of nonparametric Markov-switching models**<br>
+<span style="color:grey">6. October 2025,
+Statistics Seminar, Edinburgh, Scotland
+</span><br>
+
+**Efficient estimation of nonparametric Markov-switching models**<br>
 <span style="color:grey">3. September 2025,
 Statistical Week 2025, Wiesbaden, Germany
 </span><br>
