@@ -6,6 +6,12 @@ author_profile: true
 ---
 ## Talks
 
+**Automatic and efficient selection of multiple LASSO penalties
+for complex likelihood models**<br>
+<span style="color:grey">27. November 2025,
+Young Researchers Workshop of the Center for Statistics, Bielefeld University, Germany
+</span><br>
+
 **Hidden semi-Markov models with inhomogeneous state dwell-time distributions**<br>
 <span style="color:grey">25. November 2025,
 MIAT Seminar, Inrae, Toulouse, France
