@@ -14,7 +14,7 @@ Young Researchers Workshop of the Center for Statistics, Bielefeld University, G
 
 **Hidden semi-Markov models with inhomogeneous state dwell-time distributions**<br>
 <span style="color:grey">25. November 2025,
-MIAT Seminar, Inrae, Toulouse, France
+MIAT Seminar, INRAE, Toulouse, France
 </span><br>
 
 **Efficient estimation of nonparametric Markov-switching models**<br>
