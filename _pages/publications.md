@@ -29,7 +29,7 @@ Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" tar
 
 ## Preprints
 
-- **Koslik, J.-O.**, Dupont, F., Auger-Méthé, M., Marcoux, M., Hussey, N., Heckman, N.<br>
+- **Koslik, J.-O.**, Dupont, F., Auger-Méthé, M., Marcoux, M., Hussey, N., Heckman, N. (2025)<br>
 [Flexible unimodal density estimation in hidden Markov models](https://arxiv.org/abs/2511.17071)<br>
 *arXiv preprint*, arXiv:2511.17071
 - **Koslik, J.-O.** (2025)<br>
