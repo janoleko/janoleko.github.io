@@ -28,6 +28,10 @@ Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" tar
 *Journal of the Royal Statistical Society – Series C: Applied Statistics*, qlad110.
 
 ## Preprints
+
+- **Koslik, J.-O.**, Dupont, F., Auger-M\'eth\'e, M., Marcoux, M., Hussey, N., Heckman, N.<br>
+[Flexible unimodal density estimation in hidden Markov models](https://arxiv.org/abs/2511.17071)<br>
+*arXiv preprint*, arXiv:2511.17071
 - **Koslik, J.-O.** (2025)<br>
 ["Tensor-product interactions in Markov-switching models"](https://arxiv.org/abs/2507.01555)<br>
 *arXiv preprint*, arXiv:2507.01555
