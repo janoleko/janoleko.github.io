@@ -9,8 +9,8 @@ Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" tar
 ## Peer-reviewed papers
 
 - **Koslik, J.-O.**, Feldmann, C.C., Mews, S., Michels, R., Langrock, R. (2025)<br>
-["Inference on the state process of periodically inhomogeneous hidden Markov models for animal behavior"](https://arxiv.org/abs/2312.14583)<br>
-*The Annals of Applied Statistics*, in press
+["Inference on the state process of periodically inhomogeneous hidden Markov models for animal behavior"](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-4/Inference-on-the-state-process-of-periodically-inhomogeneous-hidden-Markov/10.1214/25-AOAS2107.full)<br>
+*The Annals of Applied Statistics*, 19(4), 2724-2737.
 - Mews, S., **Koslik, J.-O.**, Langrock, R. (2025)<br>
 ["How to build your latent Markov model: The role of time and space"](https://journals.sagepub.com/eprint/UETXXCFDY4HKBWZRNHI3/full)<br>
 *Statistical Modelling*, 2025; 0(0).
@@ -30,7 +30,7 @@ Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" tar
 ## Preprints
 
 - **Koslik, J.-O.**, Dupont, F., Auger-Méthé, M., Marcoux, M., Hussey, N., Heckman, N. (2025)<br>
-[Flexible unimodal density estimation in hidden Markov models](https://arxiv.org/abs/2511.17071)<br>
+["Flexible unimodal density estimation in hidden Markov models"](https://arxiv.org/abs/2511.17071)<br>
 *arXiv preprint*, arXiv:2511.17071
 - **Koslik, J.-O.** (2025)<br>
 ["Tensor-product interactions in Markov-switching models"](https://arxiv.org/abs/2507.01555)<br>
