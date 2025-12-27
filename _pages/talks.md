@@ -10,6 +10,9 @@ author_profile: true
 <span style="color:grey">17. December 2025,
 NCSE Meeting 2025, St Andrews, Scotland
 </span><br>
+<div style="text-align: center;">
+<img src="../images/NCSE.HEIG" style="width: 50%; height: auto;">
+</div><br>
 
 **Fast approximate likelihood inference for indirectly observed hidden Markov models**<br>
 <span style="color:grey">16. December 2025,
