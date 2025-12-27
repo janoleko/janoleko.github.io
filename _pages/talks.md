@@ -11,7 +11,7 @@ author_profile: true
 NCSE Meeting 2025, St Andrews, Scotland
 </span><br>
 <div style="text-align: center;">
-<img src="../images/ncse25.jpg" style="width: 50%; height: auto;">
+<img src="../images/ncse25.jpg" style="width: 70%; height: auto;">
 </div><br>
 
 **Fast approximate likelihood inference for indirectly observed hidden Markov models**<br>
@@ -45,7 +45,7 @@ Statistical Week 2025, Wiesbaden, Germany
 Nordic-Baltic Biometric Conference, Oslo, Norway
 </span><br>
 <div style="text-align: center;">
-<img src="../images/talk_Oslo.JPG" style="width: 50%; height: auto;">
+<img src="../images/talk_Oslo.JPG" style="width: 70%; height: auto;">
 </div><br>
 
 **Efficient smoothness selection for nonparametric Markov-switching models via quasi restricted maximum likelihood**<br>
@@ -58,7 +58,7 @@ Statistics Seminar, St Andrews, Scotland
 Statistics Seminar, Göttingen, Germany
 </span><br>
 <div style="text-align: center;">
-<img src="../images/bullsharks.jpg" style="width: 50%; height: auto;">
+<img src="../images/bullsharks.jpg" style="width: 70%; height: auto;">
 </div><br>
 
 **Exploring hidden dynamics: statistical inference in periodically inhomogeneous hidden Markov models for animal behaviour**<br>
@@ -66,7 +66,7 @@ Statistics Seminar, Göttingen, Germany
 Royal Statistical Society Conference, Brighton, UK
 </span><br>
 <div style="text-align: center;">
-<img src="../images/RSS.JPG" style="width: 50%; height: auto;">
+<img src="../images/RSS.JPG" style="width: 70%; height: auto;">
 </div><br>
 
 **Inference on the state process of periodically inhomogeneous hidden Markov models for animal behaviour**<br>
@@ -74,7 +74,7 @@ Royal Statistical Society Conference, Brighton, UK
 International Statistical Ecology Conference, Swansea, Wales
 </span><br>
 <div style="text-align: center;">
-<img src="../images/ISEC.jpg" style="width: 50%; height: auto;">
+<img src="../images/ISEC.jpg" style="width: 70%; height: auto;">
 </div><br>
 
 **Inference on the state process of periodically inhomogeneous hidden Markov models**<br>
