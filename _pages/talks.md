@@ -6,6 +6,16 @@ author_profile: true
 ---
 ## Talks
 
+**Efficient estimation of nonparametric Markov-switching models**<br>
+<span style="color:grey">17. December 2025,
+NCSE Meeting 2025, St Andrews, Scotland
+</span><br>
+
+**Fast approximate likelihood inference for indirectly observed hidden Markov models**<br>
+<span style="color:grey">16. December 2025,
+Colloquium of the Center for Statistics, Bielefeld University
+</span><br>
+
 **Automatic and efficient selection of multiple LASSO penalties
 for complex likelihood models**<br>
 <span style="color:grey">27. November 2025,
