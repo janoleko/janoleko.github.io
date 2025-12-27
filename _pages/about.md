@@ -20,5 +20,5 @@ I'm mainly interested in **doubly stochastic processes** like hidden Markov mode
 
 To make such models more accessible to a wider audience, I wrote the R package <a href="https://janoleko.github.io/LaMa/" target = "_blank">`LaMa`</a>. If you want to get an overview of the class of **latent Markov models** check out our <a href = "https://journals.sagepub.com/doi/full/10.1177/1471082X251355681" target = "_blank">review paper</a>.
 
-We also wrote two papers on interpreting HMMs with covariates effects <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-4/Inference-on-the-state-process-of-periodically-inhomogeneous-hidden-Markov/10.1214/25-AOAS2107.short" target="_blank">in a periodic setting</a> or <a href="https://arxiv.org/abs/2512.17496" target="_blank">in general</a>.
+We also wrote two papers on interpreting HMMs with covariates effects in a <a href="https://projecteuclid.org/journals/annals-of-applied-statistics/volume-19/issue-4/Inference-on-the-state-process-of-periodically-inhomogeneous-hidden-Markov/10.1214/25-AOAS2107.short" target="_blank">periodic setting</a> or in <a href="https://arxiv.org/abs/2512.17496" target="_blank">general</a>.
 
