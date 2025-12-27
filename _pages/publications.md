@@ -29,6 +29,9 @@ Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" tar
 
 ## Preprints
 
+- Vienken, M. N., **Koslik, J. O.**, & Langrock, R. (2025)<br>
+["Inference on state occupancy in covariate-driven hidden Markov models."](https://arxiv.org/abs/2512.17496)<br>
+*arXiv preprint*, arXiv:2512.17496
 - **Koslik, J.-O.**, Dupont, F., Auger-Méthé, M., Marcoux, M., Hussey, N., Heckman, N. (2025)<br>
 ["Flexible unimodal density estimation in hidden Markov models"](https://arxiv.org/abs/2511.17071)<br>
 *arXiv preprint*, arXiv:2511.17071
