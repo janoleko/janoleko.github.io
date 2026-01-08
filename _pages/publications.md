@@ -29,6 +29,9 @@ Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" tar
 
 ## Preprints
 
+- Ammann, K., Adam, T., **Koslik, J.-O.** (2026)<br>
+["Non-Homogeneous Markov-Switching Generalized Additive Models for Location, Scale, and Shape"](https://arxiv.org/abs/2601.03760)<br>
+*arXiv preprint*, arXiv:2601.03760
 - Vienken, M. N., **Koslik, J.-O.**, & Langrock, R. (2025)<br>
 ["Inference on state occupancy in covariate-driven hidden Markov models."](https://arxiv.org/abs/2512.17496)<br>
 *arXiv preprint*, arXiv:2512.17496
