@@ -34,4 +34,4 @@ Coorganised **Workshop [Hidden Markov Models for movement, acceleration and othe
 <span style="color:grey">Master level, Bielefeld University, winter term 2023/2024, winter term 2024/2025</span>
 
 **Practical session on generalised linear models (GLMs)**<br>
-<span style="color:grey">Master level, Bielefeld University, winter term 2023/2024</span>
+<span style="color:grey">Master level, Bielefeld University, winter term 2023/2024, winter term 2025/2026</span>
