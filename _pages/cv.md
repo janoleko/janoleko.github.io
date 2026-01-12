@@ -24,7 +24,7 @@ Click [here](../files/CV.pdf) for the PDF version of my CV.
 
 # Employment
 - **Research associate** Statistics and Data Analysis Group, Bielefeld University, 2023-today
-- **Research assistant** Statistics and Data Analysis Group, Bielefeld University, 2022-2023
+- **Student assistant** Statistics and Data Analysis Group, Bielefeld University, 2022-2023
 - **Working student** Pricing Intelligence, CLAAS KGaA mbH, 2021-2022
 - **Intern** Market Intelligence, CLAAS KGaA mbH, 2020
 - **Tutor** in Mathematics and Statistics, Bielefeld University of Applied Sciences, 2018-2020
