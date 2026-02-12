@@ -6,6 +6,8 @@ author_profile: true
 ---
 Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" target="_blank">here</a> for my Google Scholar.
 
+Note that I got married in January 2026 and changed my last name from Koslik to Fischer.
+
 ## Peer-reviewed papers
 
 - **Koslik, J.-O.**, Feldmann, C.C., Mews, S., Michels, R., Langrock, R. (2025)<br>
