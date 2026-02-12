@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jan-Ole Fischer (form. Koslik)"
+title                    : "Jan-Ole Fischer"
 title_separator          : "-"
-name                     : &name "Jan-Ole Fischer"
+name                     : &name "Jan-Ole Fischer (form. Koslik)"
 description              : &description "PhD student in Statistics at Bielefeld University"
 url                      : https://janolefi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
