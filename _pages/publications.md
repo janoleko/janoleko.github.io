@@ -29,6 +29,10 @@ Click <a href="https://scholar.google.com/citations?user=NTVhgzUAAAAJ&hl=de" tar
 
 ## Preprints
 
+
+- Michels, R., Bajons, R., **Fischer, J.-O.** (2026)<br>
+["Integrating Unsupervised and Supervised Learning for the Prediction of Defensive Schemes in American football."](https://arxiv.org/abs/2602.10784)<br>
+*arXiv preprint*, arXiv:2602.10784
 - Ammann, K., Adam, T., **Koslik, J.-O.** (2026)<br>
 ["Non-Homogeneous Markov-Switching Generalized Additive Models for Location, Scale, and Shape"](https://arxiv.org/abs/2601.03760)<br>
 *arXiv preprint*, arXiv:2601.03760
